@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
+<h1 align="center">Hey hey 👋, I'm Simon</h1>
 <h3 align="center">A curious, open-minded developer with a passion for self learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smyhill&label=Profile%20views&color=0e75b6&style=flat" alt="smyhill" /> </p>

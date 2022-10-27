@@ -9,7 +9,7 @@
 
 - 🪣 I’m interested in **soccer ⚽ puzzle games 🧩 obscure facts 📈 and eating a chimichanga at 11 PM 🌯**
 
-- 🤝 Let's work together on **some art 🎨**
+- 🤝 Let's work together on **some p5js art 🎨**
 
 - 📫 Send me a message at **myhillsimon96@gmail.com 📧 or @syourhill 🐦**
 

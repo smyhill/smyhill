@@ -1,17 +1,17 @@
 <h1 align="center">Hey hey 👋, I'm Simon</h1>
-<h3 align="center">A curious, open-minded developer with a passion for self learning</h3>
+<h3 align="center">A curious, open-minded, developer with a passion for self learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smyhill&label=Profile%20views&color=0e75b6&style=flat" alt="smyhill" /> </p>
 
 - 🔭 I’m currently working on **a web based terminal**
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m learning **Symfony** & **Lua**
 
-- 🪣 I’m interested in **soccer ⚽ puzzle games 🧩 obscure facts 📈 and eating a chimichanga at 11 PM 🌯**
+- 🪣 I’m interested in **⚽ soccer 🧩 puzzle games 📈 obscure facts 🌯 and eating a chimichanga at 11 PM**
 
-- 🤝 Let's work together on **some p5js art 🎨**
+- 🤝 Let's work together on 🎨 **some p5js art**
 
-- 📫 Send me a message at **myhillsimon96@gmail.com 📧 or @syourhill 🐦**
+- 📫 Send me a message at **📧 myhillsimon96@gmail.com  or 🐦 @syourhill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

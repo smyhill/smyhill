@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smyhill&label=Profile%20views&color=0e75b6&style=flat" alt="smyhill" /> </p>
 
-- 🔭 I’m currently working on **a web based terminal**
+- 🔭 I’m currently working on **python stream bot**
 
 - 🌱 I’m learning **Symfony** & **Lua**
 

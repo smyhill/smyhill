@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **Symfony**, **Lua** and a little **Go**
 
-- 🪣 I’m interested in **⚽ soccer 🧩 puzzle games 📈 obscure facts 🌯 and eating a chimichanga at 11 PM**
+- 🪣 I’m interested in **⚽ soccer 🧩 puzzle games 📈 obscure facts 🌯 and eating chimichangas at 11 PM**
 
 - 🤝 Let's work together on 🎨 **some p5js art**
 

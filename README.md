@@ -11,7 +11,7 @@
 
 - 📫 Send me a message at **📧 myhillsimon96@gmail.com  or 🐦 @syourhill**
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://twitter.com/syourhill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syourhill" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/myhillsimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myhillsimon" height="30" width="40" /></a>

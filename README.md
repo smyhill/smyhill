@@ -9,7 +9,7 @@
 
 - 🤝 Let's work together on 🎨 **some p5js art**
 
-- 📫 Send me a message at **📧 myhillsimon96@gmail.com  or 🐦 @syourhill**
+- 📫 Email me at **📧 myhillsimon96@gmail.com
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">

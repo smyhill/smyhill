@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, <br>Simon Here</h1>
+<h1 align="center">Hey 👋 I'm Simon</h1>
 <h3 align="center">A curious, open-minded, developer with a passion for self learning</h3>
 
 - 🔭 I’m currently working on **a streaming bot w/ python**

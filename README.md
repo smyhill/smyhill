@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a streaming bot w/ python**
 
-- 🌱 I’m learning **Symfony**, **Lua** and **Go**
+- 🌱 I’m learning **Symfony**, **Lua** and **Reactive Java**
 
 - 🪣 I’m interested in **⚽ soccer 🧩 puzzle games 📈 obscure facts 🌯 and eating chimichangas at 11 PM**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hey I'm Simon 👋</h1>
 <h3 align="center">A curious, open-minded, developer with a passion for self learning</h3>
 
-- 🔭 I’m currently working on **a streaming bot w/ python**
+- 🔭 I’m currently working on **a personal scraping service**
 
 - 🌱 I’m learning **Symfony**, **Lua** and **Reactive Java**
 

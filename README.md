@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a personal scraping service**
 
-- 🌱 I’m learning **Symfony**, **Go** and **Reactive Java**
+- 🌱 I’m learning **Symfony** and **Reactive Java**
 
 - 🪣 I’m interested in **⚽ soccer 🧩 puzzle games 📈 obscure facts 🌯 and eating chimichangas at 11 PM**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hey I'm Simon 👋</h1>
 <h3 align="center">A curious, open-minded, developer with a passion for self learning</h3>
 
-- 🔭 I’m currently working on **a personal scraping service**
+- 🔭 I’m currently working on **a photo verification service**
 
-- 🌱 I’m learning **Symfony** and **Reactive Java**
+- 🌱 I’m learning **Go** and **Reactive Java**
 
 - 🪣 I’m interested in **⚽ soccer 🧩 puzzle games 📈 obscure facts 🌯 and eating chimichangas at 11 PM**
 

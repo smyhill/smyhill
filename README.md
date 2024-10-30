@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Go** and **Reactive Java**
 
-- 🪣 I’m interested in **⚽ soccer 🧩 puzzle games 📈 obscure facts 🌯 and eating chimichangas at 11 PM**
+- 🪣 I’m interested in **⚽ soccer/football 🧩 puzzle games 📈 obscure facts 🌯 and eating chimichangas at 11 PM**
 
 - 🤝 Let's work together on 🎨 **some p5js art**
 

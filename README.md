@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **a photo verification service**
 
-- 🌱 I’m learning **Go** and **Reactive Java**
+- 🧑‍💻 I'm primarily a **Java**, **Typescript**, **Python** and **PHP** developer
+
+- 🌱 I’m learning **Go**
 
 - 🪣 I’m interested in **⚽ soccer/football 🧩 puzzle games 📈 obscure facts 🌯 and eating chimichangas at 11 PM**
 

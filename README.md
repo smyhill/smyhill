@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/myhillsimon">
     <img src="https://img.shields.io/badge/LinkedIn-Simon%20Myhill-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/swmyhill">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-swmyhill-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
   <a href="mailto:myhillsimon96@gmail.com">
     <img src="https://img.shields.io/badge/Email-myhillsimon96%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>

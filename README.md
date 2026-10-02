@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Simon :wave:</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer focused on distributed systems, backend architecture, infrastructure, and product development.</strong>
+  <strong>Software Engineer focused on distributed systems, backend architecture, infrastructure, and product development.</strong>
 </p>
 
 <p align="center">
